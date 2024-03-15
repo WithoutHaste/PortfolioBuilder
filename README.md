@@ -23,11 +23,11 @@ After you finish the Console exercises, the rest are not strictly ordered by dif
 
 Let's get started!
  
-**01** [Console: Hello, World](exercises/01_Console_HelloWorld)  
-**10** [Console: Happy Numbers](exercises/10_Console_HappyNumbers)  
-**20** [Console: Input/Output](exercises/20_Console_InputOutput)  
-**30** [Console: Files](exercises/30_Console_Files)  
-**40** [GUI: Binary Calculator](exercises/40_GUI_BinaryCalculator)  
+**01** [Console: Hello, World](exercises/01_Console_HelloWorld.md)  
+**10** [Console: Happy Numbers](exercises/10_Console_HappyNumbers.md)  
+**20** [Console: Input/Output](exercises/20_Console_InputOutput.md)  
+**30** [Console: Files](exercises/30_Console_Files.md)  
+**40** [GUI: Binary Calculator](exercises/40_GUI_BinaryCalculator.md)  
 **50** GUI: Drag-n-Drop Diagram  
 **60** REST API: Fruits Inventory  
 **70** Data Pipeline  
