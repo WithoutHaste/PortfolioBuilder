@@ -35,3 +35,7 @@ Let's get started!
 **90** Multi-threading  
 
 *(Why do the exercise numbers have gaps? That's so more can be added later without disrupting the numbers folks are already referencing.)*
+
+## My Notes
+
+I keep my own programming language notes [here](https://withouthaste.com). I've found the practice of keeping notes really helpful over the years, and recommend you find a method that works well for you.
