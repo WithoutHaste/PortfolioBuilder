@@ -13,4 +13,5 @@
 > *Example: 103 leads to 10 because 1x1 + 0x0 + 3x3 = 10*  
 > *103 is a happy number because 103 -> 10 -> 1*  
 > *20 is an unhappy number because it gets trapped in this loop: 4 -> 16 -> 37 -> 58 -> 89 -> 145 -> 42 -> 20 -> 4*  
+
 All numbers will either reach 1 or end up in a loop.  
