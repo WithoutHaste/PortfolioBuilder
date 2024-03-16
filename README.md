@@ -24,6 +24,7 @@ After you finish the Console exercises, the rest are not strictly ordered by dif
 Let's get started!
  
 **01** [Console: Hello, World](exercises/01_Console_HelloWorld.md)  
+**02** [Console: FizzBuzz](exercises/02_Console_FizzBuzz.md)  
 **10** [Console: Happy Numbers](exercises/10_Console_HappyNumbers.md)  
 **20** [Console: Input/Output](exercises/20_Console_InputOutput.md)  
 **30** [Console: Files](exercises/30_Console_Files.md)  
@@ -34,7 +35,7 @@ Let's get started!
 **80** Regular Expressions  
 **90** Multi-threading  
 
-*(Why do the exercise numbers have gaps? That's so more can be added later without disrupting the numbers folks are already referencing.)*
+*(Why do the exercise numbers have gaps? That's so more can be added later without disrupting the numbers that are already being referenced.)*
 
 ## My Notes
 
