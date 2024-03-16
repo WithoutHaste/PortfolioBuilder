@@ -15,3 +15,4 @@
 > *20 is an unhappy number because it gets trapped in this loop: 4 -> 16 -> 37 -> 58 -> 89 -> 145 -> 42 -> 20 -> 4*  
 
 All numbers will either reach 1 or end up in a loop.  
+Learn more at [Numbers Aplenty](https://www.numbersaplenty.com/set/happy_number/).  
