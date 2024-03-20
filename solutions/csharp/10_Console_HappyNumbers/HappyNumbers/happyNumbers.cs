@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo("HappyNumbersTest")]
 
 namespace HappyNumbers;
 
@@ -17,7 +19,7 @@ public static class Exercise10
 	///<returns>
 	/// Happy numbers from 1 to max, in ascending order
 	///</returns>	
-	public static int[] GenerateHappyNumbers(int max)
+	internal static int[] GenerateHappyNumbers(int max)
 	{
 		var happy = new HashSet<int>() { 1 };
 		var unhappy = new HashSet<int>();
@@ -29,12 +31,12 @@ public static class Exercise10
 		
 		return happy.Where(x => x <= max).OrderBy(x => x).ToArray();
 	}
-	
+
 	/// <summary>
 	/// Determines if N is happy or not
 	/// And updates happy/unhappy collections along the way
 	/// </summary>
-	public static void DetermineHappyOrNot(int n, ref HashSet<int> happy, ref HashSet<int> unhappy)
+	internal static void DetermineHappyOrNot(int n, ref HashSet<int> happy, ref HashSet<int> unhappy)
 	{
 		var path = new HashSet<int>() { n };
 		var currentN = n;
@@ -53,24 +55,24 @@ public static class Exercise10
 			currentN = nextN;
 		}
 	}
-	
+
 	/// <returns>
 	/// Next number when applying Happy Number step calculation to N
 	/// </returns>
-	public static int Increment(int n)
+	internal static int Increment(int n)
 	{
 		return Digits(n).Select(d => d*d).Sum();
 	}
-	
+
 	/// <returns>
 	/// Array of all digits in N, including repeats
 	/// </returns>
-	public static int[] Digits(int n)
+	internal static int[] Digits(int n)
 	{
 		return n.ToString().ToCharArray().Select(c => ConvertCharToDigit(c)).ToArray();
 	}
-	
-	public static int ConvertCharToDigit(char c)
+
+	internal static int ConvertCharToDigit(char c)
 	{
 		return c switch
 		{
