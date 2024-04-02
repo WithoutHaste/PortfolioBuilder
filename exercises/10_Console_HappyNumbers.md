@@ -1,6 +1,6 @@
 # 10 Console: Happy Numbers
 
-**Purpose**: This exercise will show that you can use flow controls, functions, simple data structures, and (very important) unit tests.
+**Purpose**: This exercise will show that you can use flow controls, functions, simple data structures, and start using unit tests.
 
 **Requirements**:  
 - Output all the happy numbers from 1 to 100.

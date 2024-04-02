@@ -1,6 +1,6 @@
 # 20 Console: Input/Output
 
-**Purpose**: This exercise will show that you can take input from the user and respond to it.
+**Purpose**: This exercise will show that you can take input from the user and respond to it. Try to minimize the I/O boundary and maximize the easy-to-test logic.
 
 **Requirements**:  
 - Your program will play "Hotter/Colder" with the user
