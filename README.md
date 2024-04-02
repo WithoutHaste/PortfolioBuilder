@@ -23,13 +23,14 @@ After the first few exercises, the rest are not strictly ordered by difficulty. 
 
 Let's get started!
  
-**01** [Console: Hello, World](exercises/01_Console_HelloWorld.md)  
-**02** [Console: FizzBuzz](exercises/02_Console_FizzBuzz.md)  
-**10** [Console: Happy Numbers](exercises/10_Console_HappyNumbers.md)  
-**20** [Console: Input/Output](exercises/20_Console_InputOutput.md)  
-**30** [Console: Files](exercises/30_Console_Files.md)  
+**01** [Console: Hello, World](exercises/01_Console_HelloWorld.md) *execute a program*  
+**02** [Console: FizzBuzz](exercises/02_Console_FizzBuzz.md) *use loops and conditionals*  
+**10** [Console: Happy Numbers](exercises/10_Console_HappyNumbers.md) *functions, flow controls, and unit tests*  
+**11** [Console: Diagnostics](exercises/11_Console_Diagnostics.md) *timing metrics, sorting, random numbers, and recursion*  
+**20** [Console: Input/Output](exercises/20_Console_InputOutput.md) *take console input, respond with output*  
+**30** [Console: Data Pipeline](exercises/30_Console_DataPipeline.md) *data pipelines, read from file, write to file*  
 **40** Console: Regular Expressions  
-**50** Console: Data Pipeline  
+**50** Console: ?  
 **60** Console: Multi-threading  
 **70** REST API: Fruits Inventory  
 **80** GUI: Binary Calculator  
