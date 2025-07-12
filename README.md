@@ -24,17 +24,18 @@ After the first few exercises, the rest are not strictly ordered by difficulty. 
 Let's get started!
  
 **01** [Console: Hello, World](exercises/01_Console_HelloWorld.md) &nbsp;&nbsp;&nbsp;*execute a program*  
-**02** [Console: FizzBuzz](exercises/02_Console_FizzBuzz.md) &nbsp;&nbsp;&nbsp;*use loops and conditionals*  
+**02** [Console: FizzBuzz](exercises/02_Console_FizzBuzz.md) &nbsp;&nbsp;&nbsp;*loops and conditionals*  
 **10** [Console: Happy Numbers](exercises/10_Console_HappyNumbers.md) &nbsp;&nbsp;&nbsp;*functions, flow controls, and unit tests*  
 **11** [Console: Diagnostics](exercises/11_Console_Diagnostics.md) &nbsp;&nbsp;&nbsp;*timing metrics, sorting algorithms, random numbers, and recursion*  
 **20** [Console: Input/Output](exercises/20_Console_InputOutput.md) &nbsp;&nbsp;&nbsp;*take console input, respond with output*  
-**30** [Console: Data Pipeline](exercises/30_Console_DataPipeline.md) &nbsp;&nbsp;&nbsp;*data pipelines, read from file, write to file*  
+**30** [Console: Data Pipelines](exercises/30_Console_DataPipeline.md) &nbsp;&nbsp;&nbsp;*data pipelines, read from file, write to file*  
 **40** Console: Regular Expressions  
-**50** Console: ?  
-**60** Console: Multi-threading  
-**70** REST API: Fruits Inventory  
-**80** GUI: Binary Calculator  
-**90** GUI: Drag-n-Drop Diagram  
+**50** Console: Multi-threading  
+**60** unassigned  
+**70** REST API: Fruits Inventory &nbsp;&nbsp;&nbsp;*REST, get, add, edit, delete*  
+**80** GUI: Binary Calculator &nbsp;&nbsp;&nbsp;*buttons and text fields*  
+**85** GUI: Drag-n-Drop Diagram &nbsp;&nbsp;&nbsp;*user interacts with a canvas*  
+**90** unassigned  
 
 *(Why do the exercise numbers have gaps? So that more can be added later without disrupting the numbers that are already being referenced.)*
 
